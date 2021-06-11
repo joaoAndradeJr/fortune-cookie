@@ -1,0 +1,19 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.cookie-img{
+  border-radius: 30px;
+  margin: auto;
+  margin-top: 60px;
+  max-height: 350px;
+}
+
+.frase {
+  color: rgb(199, 196, 182);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: xx-large;
+  margin: auto;
+  padding: 20px;
+}
